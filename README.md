@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I'm a Frontend developer with my ♥ in React & Cypress 
 <!--
 **shawn-dsz/shawn-dsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
