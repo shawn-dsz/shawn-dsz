@@ -1,17 +1,13 @@
 ### Hi there 👋
 
 
-I'm a Principal Frontend developer with my ♥ in Design Sytems, Isomorphic React apps & Cypress 
-<!--
-**shawn-dsz/shawn-dsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Principal Front End Engineer with my ♥ in Design Sytems, Contineous Integration, Isomorphic React apps & Cypress.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on making it easier to bring declious bites to you.
+- 🌱 I’m currently learning Tailwind, Figma, Kubernetes.
+- 👯 I’m looking to collaborate on building presentational components.
+- 🤔 I’m looking for help with better design system practices.
 - 💬 Ask me about scaling frontend architectures
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: find me on linkedIn
+- ⚡ Fun fact: I enjoy riding 🏍
