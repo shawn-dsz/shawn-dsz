@@ -2,7 +2,7 @@
 
 I'm Shawn D'Souza 👋
 
-I'm a Principal Front End Engineer based in Melbourne, Australia. I've been devloping software for 10+ years, right now my main focus is work with FrontEnd tools.
+I'm a Principal Front End Engineer based in Melbourne, Australia. I've been devloping software for 14+ years, right now my main focus is work with FrontEnd tools.
 
 My passion lies in Design Sytems, continuous Integration, Isomorphic React apps & Cypress, Developer Experience.
 
