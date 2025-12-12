@@ -5,10 +5,10 @@
 
   ### Interests
 
-  **Design systems** — component APIs, tokens, bridging design and engineering
-  **Developer experience** — build performance, monorepos, removing friction
-  **Accessibility** — building for everyone, not just compliance
-  **AI tooling** — working on an AI-native startup, exploring agentic workflows
+  **Design systems**: component APIs, tokens, bridging design and engineering
+  **Developer experience**: build performance, monorepos, removing friction
+  **Accessibility**: building for everyone, not just compliance
+  **AI tooling**: working on an AI-native startup, exploring agentic workflows
 
   ### Tech
 
