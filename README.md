@@ -3,7 +3,6 @@
 Engineering leader and full-stack builder in **Melbourne**. ~15 years shipping production systems at Australian scale.
 
 **Open to:** Engineering Manager / Head of Engineering / AI platform roles (Melbourne, AU remote, Dubai).  
-**Building:** [Cadre](https://cadrelabs.io) - AI agents for real estate and property management (replacement, not bolt-on).  
 **Studying:** MBA, Melbourne Business School.
 
 ## Now
@@ -26,10 +25,6 @@ Agents: LangGraph / LangChain · MCP · Restate-style durable workflows · evals
 | **Belong (Telstra)** | Engineering Manager | People + delivery |
 | **Wesfarmers / Catch** | Principal / tech lead | $500M+ GMV commerce |
 
-## Cadre
-
-CADRE Labs (cadrelabs.io) - AI property management agent (**AREA**). Focus: maintenance and PM workflows with real pilots (AU agencies), security-aware GTM, and product that does the work rather than "AI features" on legacy software.
-
 ## Contact
 
 - GitHub: [shawn-dsz](https://github.com/shawn-dsz)
@@ -37,5 +32,5 @@ CADRE Labs (cadrelabs.io) - AI property management agent (**AREA**). Focus: main
 
 <!--
 Profile README for github.com/shawn-dsz
-Updated: 15/07/2026 - job search open, Cadre + agent-native focus, Hermes/multi-model, MBA
+Updated: 15/07/2026 - no Cadre on public profile per Shawn
 -->
