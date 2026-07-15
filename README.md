@@ -32,5 +32,5 @@ Agents: LangGraph / LangChain · MCP · Restate-style durable workflows · evals
 
 <!--
 Profile README for github.com/shawn-dsz
-Updated: 15/07/2026 - no Cadre on public profile per Shawn
+Updated: 15/07/2026 - public profile without venture branding
 -->
